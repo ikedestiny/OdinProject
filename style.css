@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Maitree', sans-serif;
+    background-color: rgba(0, 0, 0, 0.473);
+    color: rgb(98, 56, 56);
+    
+}
+
+#top-text{
+    font-size: 30px;
+}
+#left{
+    padding-left:20vw;
+    
+}
+#bot-text{
+    font-size: 30px;
+    padding: 10px;
+}
